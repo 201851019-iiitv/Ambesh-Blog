@@ -16,7 +16,7 @@ const getPostIdParam=()=>{
     let querystring=window.location.search;
     let url=new URLSearchParams(querystring);
     getPost(url.get('id'));
-    // console.log(url.get('id'));
+    console.log(url.get('id'));
 }
 
 const getPost = (post_id) => {
