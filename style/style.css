@@ -21,7 +21,7 @@ header {
 }
 
 .home-page header ,.new-post-page header{
-  background-image: url(/assets/banner.jpeg);
+  background-image: url(https://github.com/201851019-iiitv/Ambesh-Blog/blob/main/assets/banner.jpeg);
 }
 
 header > * {
