@@ -8,6 +8,7 @@ window.onload = () => {
 }
 
 const getPosts = () => {
+  console.log("hello from get post");
    fetch(API_URL,{
        method:'GET'
    }).then((Response)=>{
