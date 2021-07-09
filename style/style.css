@@ -22,6 +22,7 @@ header {
 
 .home-page header ,.new-post-page header{
   background-image: url(/assets/banner.jpeg);
+  width: 100%;
 }
 
 header > * {
@@ -67,6 +68,8 @@ main {
   width: 100%;
   padding-left: 16px;
   padding-right: 16px;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 .main-container1{
   margin-left: 30%;
