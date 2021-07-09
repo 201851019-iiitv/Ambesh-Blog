@@ -21,7 +21,7 @@ header {
 }
 
 .home-page header ,.new-post-page header{
-  background-image: url(https://github.com/201851019-iiitv/Ambesh-Blog/blob/main/assets/banner.jpeg);
+  background-image: url(/assets/banner.jpeg);
 }
 
 header > * {
@@ -39,7 +39,7 @@ header::before {
 }
 
 .profile-img {
-  background-image: url(https://github.com/201851019-iiitv/Ambesh-Blog/blob/main/assets/profile_img.jpeg);
+  background-image: url(/assets/profile_img.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100px;
