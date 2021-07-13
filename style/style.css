@@ -6,8 +6,8 @@ body {
 /* header section */
 
 header {
-  min-width: 350px;
-  min-height: 350px;
+  min-width:320px;
+  min-height: 300px;
   justify-content: center;
   display: flex;
   flex-direction: column;
@@ -50,6 +50,7 @@ header::before {
 .profile-name  ,.title{
   font-size: 3rem;
   font-weight: bold;
+  text-align:center;
 }
 .subtext {
   margin-top: 8px;
@@ -64,12 +65,12 @@ main {
 
 .main-container {
   max-width: 750px;
-  min-width: 600px;
+  min-width: 300px;
   width: 100%;
   padding-left: 16px;
   padding-right: 16px;
-  margin-left: 16px;
-  margin-right: 16px;
+  margin-left:5%;
+  
 }
 .main-container1{
   margin-left: 30%;
@@ -85,6 +86,7 @@ main {
   height: 200px;
   overflow: hidden;
   margin-top: 24px;
+  margin-left: 8px;
 }
 
 .post:hover {
