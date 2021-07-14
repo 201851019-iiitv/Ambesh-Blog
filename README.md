@@ -3,7 +3,7 @@
 
 ## About 
 
-This is a  my personal blogging website where I and any  user can add  new things whatever his wish to share.
+This is a  my personal blogging website where I/any user can add  new things whatever my/his wish to share.
 
 
 ## Requirements
